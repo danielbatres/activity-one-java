@@ -10,7 +10,7 @@ to the requested exercises
 1. Create a class that prints the sum of two numbers if they are equal and calculates the product of
    both are different.
 
-[Exercise N°1 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise1.java)
+   [Exercise N°1 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise1.java)
 
 3. Create a class that calculates the area of ​​a rectangle, print results.
 
