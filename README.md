@@ -16,8 +16,10 @@ to the requested exercises
 
     [Exercise N°2 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise2.java)
 
-4. Create a class that calculates the hypotenuse of a triangle (research the functions to get
+3. Create a class that calculates the hypotenuse of a triangle (research the functions to get
    square root and powers)
+
+    [Exercise N°3 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise3.java)
 
 5. Create a java application that, based on an employee's salary, calculates the discount of the
    income, verify if said discount can be applied (According to the table, it will be assumed that the salary is
