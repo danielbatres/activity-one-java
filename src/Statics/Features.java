@@ -2,7 +2,7 @@ package Statics;
 import java.text.DecimalFormat;
 
 public class Features {
-    private static final String DECIMAL_PATTERN = "###,###.###";
+    private static final String DECIMAL_PATTERN = "###,###.##";
     public static DecimalFormat dc = new DecimalFormat(DECIMAL_PATTERN);
 
     public static float validateDataNumber(float value) {

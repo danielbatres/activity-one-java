@@ -19,6 +19,6 @@ public class Exercise2 {
     private static void rectangleArea(float base, float height) {
         float area = base * height;
 
-        System.out.println("The area of your rectangle is: " + area);
+        System.out.println("The area of your rectangle is: " + Features.dc.format(area));
     }
 }
