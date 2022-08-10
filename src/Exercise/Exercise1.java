@@ -1,7 +1,7 @@
 package Exercise;
 import Statics.Features;
 
-public class Exercise1 {
+public class Exercise1 implements IExercise {
     private static float num1;
     private static float num2;
 

@@ -15,4 +15,15 @@ public class Features {
 
         return value;
     }
+
+    public static int validateIntDataNumber(int value) {
+        try {
+            value = SC.sc.nextInt();
+        } catch (Exception e) {
+            System.out.println("An integer was expected. Exception: " + e);
+            System.exit(0);
+        }
+
+        return value;
+    }
 }

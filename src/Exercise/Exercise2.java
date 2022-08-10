@@ -2,7 +2,7 @@ package Exercise;
 
 import Statics.Features;
 
-public class Exercise2 {
+public class Exercise2 implements IExercise {
     private static float base;
     private static float height;
 
