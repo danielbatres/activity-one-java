@@ -21,16 +21,18 @@ to the requested exercises
 
     [Exercise N°3 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise3.java)
 
-5. Create a java application that, based on an employee's salary, calculates the discount of the
+4. Create a java application that, based on an employee's salary, calculates the discount of the
    income, verify if said discount can be applied (According to the table, it will be assumed that the salary is
    monthly). Show on the screen the total salary that the employee will receive.
 
-6. Create a java application that allows you to calculate the factorial of an integer.
+5. Create a java application that allows you to calculate the factorial of an integer.
 
-7. Create a java application that prints the first 100 prime numbers.
+6. Create a java application that prints the first 100 prime numbers.
 
-8. Make a solution that prints “even” or “odd” after you have read and verified a
+7. Make a solution that prints “even” or “odd” after you have read and verified a
    whole number.
+
+    [Exercise N°7 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise7.java)
 
 9. Given the coordinates of a point in the Cartesian plane, display a message indicating in
       which quadrant is located, if it is on the x-axis, y-axis, or at the origin.
