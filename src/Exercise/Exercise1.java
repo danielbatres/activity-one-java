@@ -23,7 +23,7 @@ public class Exercise1 {
 
     // Numbers product is multiplication of the same numbers.
 
-    public static void product(float num1, float num2) {
+    private static void product(float num1, float num2) {
         float product = num1 * num2;
 
         System.out.println("The product of both numbers is: " + product);
