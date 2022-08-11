@@ -48,10 +48,12 @@ to the requested exercises
 
     [Exercise N°10 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise10.java)
 
-12. You want to calculate the salary of a worker, taking the hours worked during the week
+11. You want to calculate the salary of a worker, taking the hours worked during the week
     and the type of position you perform, design the solution that allows you to display the data of the
     employee and his weekly salary, knowing that the class A worker is paid $7.00/hour, the class B
     $8.50, class C $10.00 and class D $12.50.
+
+    [Exercise N°11 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise11.java)
 
 13. Design a solution that, given the grades of a group of students (whose number is known)
     calculate and print the average grade.
