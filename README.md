@@ -34,17 +34,19 @@ to the requested exercises
 
     [Exercise N°7 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise7.java)
 
-9. Given the coordinates of a point in the Cartesian plane, display a message indicating in
+8. Given the coordinates of a point in the Cartesian plane, display a message indicating in
       which quadrant is located, if it is on the x-axis, y-axis, or at the origin.
 
-10. In a cinema there is a 50% discount on the value of the ticket for people over 60
-    years and those under 18 years of age, the rest of the people pay the amount without discount. given the age
-    of the person and the price of the ticket, calculate how much a person will pay for their ticket.
+9. In a cinema there is a 50% discount on the value of the ticket for people over 60
+   years and those under 18 years of age, the rest of the people pay the amount without discount. given the age
+   of the person and the price of the ticket, calculate how much a person will pay for their ticket.
 
-11. Given the name of the client, and the value of the purchase, calculate the amount to pay considering the
+10. Given the name of the client, and the value of the purchase, calculate the amount to pay considering the
     following: If the purchase is less than or equal to $75.00, there is NO discount. If the purchase is greater than
     $75.00, you have a 5% discount If the purchase is greater than $150.00, you have a 10% discount
     The name of the client, the value of the purchase and the actual amount to be paid must be printed.
+
+    [Exercise N°10 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise10.java)
 
 12. You want to calculate the salary of a worker, taking the hours worked during the week
     and the type of position you perform, design the solution that allows you to display the data of the
