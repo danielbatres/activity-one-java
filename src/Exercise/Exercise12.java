@@ -28,6 +28,11 @@ public class Exercise12 implements IExercise {
         float preTotal = 0;
 
         for (float studentGrade : studentGrades) {
+            if (studentGrade > 10) {
+                System.out.println("Grades can't be higher than ten");
+                System.exit(0);
+            }
+
             preTotal += studentGrade;
         }
 
