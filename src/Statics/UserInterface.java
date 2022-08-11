@@ -37,15 +37,19 @@ public class UserInterface {
                 Exercise3.receiveData();
                 break;
             case 4:
+                Exercise4.receiveData();
                 break;
             case 5:
+                Exercise5.receiveData();
                 break;
             case 6:
+                Exercise6.receiveData();
                 break;
             case 7:
                 Exercise7.receiveData();
                 break;
             case 8:
+                Exercise8.receiveData();
                 break;
             case 9:
                 Exercise9.receiveData();
