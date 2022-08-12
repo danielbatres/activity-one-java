@@ -25,7 +25,9 @@ to the requested exercises
    income, verify if said discount can be applied (According to the table, it will be assumed that the salary is
    monthly). Show on the screen the total salary that the employee will receive.
 
-5. Create a java application that allows you to calculate the factorial of an integer.
+    [Exercise N°4 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise4.java)
+
+6. Create a java application that allows you to calculate the factorial of an integer.
 
     [Exercise N°5 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise5.java)
 
