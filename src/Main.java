@@ -2,6 +2,7 @@ import Statics.UserInterface;
 
 /**
  * Author: Daniel Garcia Batres
+ * Activity One
  *
  * Repository: https://github.com/danielbatres/activity-one-java
  *
