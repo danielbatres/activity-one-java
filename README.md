@@ -27,21 +27,23 @@ to the requested exercises
 
     [Exercise N°4 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise4.java)
 
-6. Create a java application that allows you to calculate the factorial of an integer.
+5. Create a java application that allows you to calculate the factorial of an integer.
 
     [Exercise N°5 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise5.java)
 
-7. Create a java application that prints the first 100 prime numbers.
+6. Create a java application that prints the first 100 prime numbers.
 
     [Exercise N°6 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise6.java)
 
-8. Make a solution that prints “even” or “odd” after you have read and verified a
+7. Make a solution that prints “even” or “odd” after you have read and verified a
    whole number.
 
     [Exercise N°7 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise7.java)
 
-9. Given the coordinates of a point in the Cartesian plane, display a message indicating in
+8. Given the coordinates of a point in the Cartesian plane, display a message indicating in
       which quadrant is located, if it is on the x-axis, y-axis, or at the origin.
+
+    [Exercise N°8 Class](https://github.com/danielbatres/activity-one-java/blob/main/src/Exercise/Exercise8.java)
 
 10. In a cinema there is a 50% discount on the value of the ticket for people over 60
     years and those under 18 years of age, the rest of the people pay the amount without discount. given the age
