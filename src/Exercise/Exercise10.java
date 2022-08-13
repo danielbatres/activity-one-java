@@ -11,7 +11,8 @@ public class Exercise10 implements IExercise {
 
     public static void receiveData() {
         System.out.println("Enter your name");
-        client.setName(SC.sc.nextLine());
+        String name = SC.sc.next();
+        client.setName(name);
 
         System.out.println("Enter the value of your purchase");
         purchaseValue = Features.validateDataNumber(purchaseValue);
